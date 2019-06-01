@@ -1,0 +1,11 @@
+*{
+	
+}
+.catfact{
+	border-style: solid;
+	border-width: 1px; 
+}
+.dottedborder{
+	border-style: dotted;
+	border-width: 2px;
+}
